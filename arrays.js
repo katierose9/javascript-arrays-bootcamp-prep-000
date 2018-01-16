@@ -16,4 +16,3 @@ function addElementToEndOfArray( array, element) {
   var element = 1
   return [element, array]
 }
-]
